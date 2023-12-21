@@ -50,6 +50,9 @@
 
     background-color: transparent;
 }
+.botonSolo{
+	align-items:center;
+}
 
 /* nav   */
 
@@ -105,6 +108,8 @@
 
 
 /* main*/
+
+
 
 .conferencia {
     border-top: 750px;
@@ -168,11 +173,12 @@
 
 
 .oradores {
-    height: 100vh;
+    height: 100%;
     background-color: white;
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    padding-bottom:40px;
 
 }
 
@@ -331,6 +337,15 @@ form .boton {
     font-size: x-large;
 }
 
+
+.usuario{
+	
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    padding-bottom: 10px;
+    justify-content: space-between;
+}
 .nombres {
     width: 100%;
     margin: 20px;

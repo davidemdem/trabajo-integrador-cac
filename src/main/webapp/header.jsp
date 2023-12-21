@@ -10,11 +10,12 @@
             </div>
             <nav class="listaHeader">
 
-                <a class="colorWhite linkNav" href="#conferencia">La Conferencia</a>
-                <a class="colorGrey linkNav" href="#oradores">Los Oradores</a>
-                <a class="colorGrey linkNav" href="#lugar">El lugar y la fecha</a>
-                <a class="colorGrey linkNav" href="#formularioOrador">Conviertete en Orador</a>
-                <a class="colorVerde linkNav" href="./pages/tickets.html">Comprar Tickets</a>
+                <a class="colorWhite linkNav" href="./index.jsp#conferencia">La Conferencia</a>
+                <a class="colorGrey linkNav" href="./index.jsp#oradores">Los Oradores</a>
+                <a class="colorGrey linkNav" href="./index.jsp#lugar">El lugar y la fecha</a>
+                <a class="colorGrey linkNav" href="./index.jsp#formularioOrador">Conviertete en Orador</a>
+                <a class="colorVerde linkNav" href="./pages/tickets.jsp">Comprar Tickets</a>
+                <a class="colorGrey linkNav" href="./pages/login.jsp">Login</a>
 
 
             </nav>

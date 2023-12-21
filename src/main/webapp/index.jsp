@@ -1,3 +1,7 @@
+<%@page import="ar.com.integrador.domain.Orador"%>
+<%@page import="java.util.List"%>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -76,6 +80,10 @@
                 </div>
             </div>
         </div>
+         <section  id="restoOradores">
+		       <a class="colorDeFondoVerde boton colorWhite letraGrande" href="<%=request.getContextPath()%>/FindAllOradorController">Conoce al resto de los ORADORES</a>
+		
+		    </section>
         </section>
 
         <section class="lugar">
